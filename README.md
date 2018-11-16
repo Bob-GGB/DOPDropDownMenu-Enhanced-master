@@ -4,15 +4,6 @@
 support cell image 
 新增cell 图片 支持, 新增 detailText  
 
-DOPDropDownMenu 添加双列表 优化版 （double tableView, The optimization version ）
-
-首先 感谢 DOPDropDownMenu 作者的无私奉献和允许,  https://github.com/dopcn/DOPDropDownMenu 
-
-我在此基础上美化来了界面，添加了双列表的应用，优化了代码，增强了稳定性，希望大家喜欢
-
-First, I would like to thank the author of the [DOPDropDownMenu](https://github.com/dopcn/DOPDropDownMenu) for their selfless dedication.
-
-This enhanced version includes beautiful improvements to the interface, double tableview capability, optimized code, and improved stability.  Enjoy!
 
 ## CocoaPods
 ```
